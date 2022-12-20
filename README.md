@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badr (0xSp3ar)</h1>
-<h3 align="center">I'm a Just learner :))</h3>
+<h3 align="center">I'm Just a learner :))</h3>
 
 - 🌱 I’m currently learning **python,hacking stuff**
 
